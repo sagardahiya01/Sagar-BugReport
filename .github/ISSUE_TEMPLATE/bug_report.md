@@ -23,3 +23,6 @@ the bug. For example, a device section that details what operating
 system/browser/mobile phone you were using. Or perhaps a Screenshot showing
 a photo or video recording of the bug happening. These are just examples, please
 use your best judgement here to include further relevant sections.
+
+**Severity**
+The bug effects a number of user base.
